@@ -1,4 +1,4 @@
-# Sales Data Analytics Dashboard (Interactive Dashboard Using Tableau)
+<img width="938" height="520" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/22eedf41-7e92-4693-81e7-b40a8ac6cb73" /># Sales Data Analytics Dashboard (Interactive Dashboard Using Tableau)
 
 ## Project Overview
 
@@ -24,10 +24,10 @@ This project presents an interactive Sales Dashboard built using Tableau to anal
 - Drill-down for detailed insights
 
 ## Interactive Dashboard
-- <a href="https://github.com/adityakulange/Tableau/blob/main/Sales%20Data%20Analytics/Sales%20Dashboard.twbx">Sales-Dashboard</a>
+- <a href="https://github.com/Sujataj266/Tableau/blob/main/Sales%20Data%20Analytics/Dashboard%20Screenshot.png">Sales-Dashboard</a>
 
 ## Dashboard
-<img width="1387" height="777" alt="Screenshot Sales Dashboard" src="https://github.com/user-attachments/assets/f7a4912d-065c-4a62-9323-cb202b8e68c3" />
+
 
 ## Conclusion
 
