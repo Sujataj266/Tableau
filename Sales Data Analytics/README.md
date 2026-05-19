@@ -1,4 +1,4 @@
-<img width="938" height="520" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/22eedf41-7e92-4693-81e7-b40a8ac6cb73" /># Sales Data Analytics Dashboard (Interactive Dashboard Using Tableau)
+# Sales Data Analytics Dashboard (Interactive Dashboard Using Tableau)
 
 ## Project Overview
 
