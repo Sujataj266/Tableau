@@ -27,7 +27,7 @@ This project presents an interactive Sales Dashboard built using Tableau to anal
 - <a href="https://github.com/Sujataj266/Tableau/blob/main/Sales%20Data%20Analytics/Dashboard%20Screenshot.png">Sales-Dashboard</a>
 
 ## Dashboard
-
+<img width="938" height="520" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/e92325a4-0206-4c77-b79f-02a4c1efe614" />
 
 ## Conclusion
 
